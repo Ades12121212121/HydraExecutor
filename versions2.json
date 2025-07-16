@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.2.0",
+  "download_url": "https://github.com/Ades12121212121/HydraExecutor/releases/download/Executor/1.1.0.rar",
+  "release_notes": "🚀 Panel de Scripts Avanzado\n✅ Sistema de Auto-Ejecución\n🔧 Persistencia Robusta con localStorage\n🔄 Sistema de Verificación de Versiones\n🎨 Interfaz Moderna Mejorada\n🐛 Correcciones de Bugs y Mejoras de Estabilidad",
+  "release_date": "2025-01-13",
+  "file_size": 5242880,
+  "is_required": false,
+  "min_supported_version": "1.2.0"
+}
